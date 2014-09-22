@@ -14,3 +14,5 @@ Netflix Movie Picker
 
 
 ![picture alt](https://d13yacurqjgara.cloudfront.net/users/2790/screenshots/33747/shot_1278623356.png "lobster")
+
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
