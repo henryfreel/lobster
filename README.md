@@ -12,3 +12,4 @@ Netflix Movie Picker
 * See actor/director/producer info from imdb
 * watch trailor, or get taken to trailer on youtube (or other)
 
+i did something
