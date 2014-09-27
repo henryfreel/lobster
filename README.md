@@ -22,3 +22,4 @@ Netflix Movie Picker
 * [A Better Queue](http://abetterqueue.com)
 * [Flixdfindr](http://www.flixfindr.com)
 * [Todo Movies iPhone app](https://itunes.apple.com/us/app/todo-movies/id528977441)
+* [Berdict Movie Reviews in 400 characters or less](http://www.berdict.com)
