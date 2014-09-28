@@ -1,7 +1,4 @@
-lobster
-=======
-
-Netflix Movie Picker
+Lobster — Netflix Movie Picker
 -
 
 #### Features ####
@@ -23,3 +20,21 @@ Netflix Movie Picker
 * [Flixdfindr](http://www.flixfindr.com)
 * [Todo Movies iPhone app](https://itunes.apple.com/us/app/todo-movies/id528977441)
 * [Berdict Movie Reviews in 400 characters or less](http://www.berdict.com)
+
+
+#### User Stories ####
+I just downloaded Lobster and I want to start using it
+![](http://i.imgur.com/fUkzeQC.png)
+
+
+I want to navigate within the app (Kickstarter dropdown style)
+<img src="http://i.imgur.com/b5lFqIJ.png" style="width: 150px;"/>
+
+I want Lobster to pick a movie or TV show for me quickly
+![](http://i.imgur.com/ifcyc75.png)
+
+I want to browse categories and explore
+![](http://i.imgur.com/K4m7RoO.png)
+
+I want to see what I've watched so far
+<img src="http://i.imgur.com/ANrPsgV.png" style="width: 150px;"/>
