@@ -28,13 +28,13 @@ I just downloaded Lobster and I want to start using it
 
 
 I want to navigate within the app (Kickstarter dropdown style)
-<img src="http://i.imgur.com/b5lFqIJ.png" style="width: 150px;"/>
+![](http://i.imgur.com/egyeTYM.png)
 
 I want Lobster to pick a movie or TV show for me quickly
-![](http://i.imgur.com/ifcyc75.png)
+![](http://i.imgur.com/TtyLLhC.png)
 
 I want to browse categories and explore
-![](http://i.imgur.com/K4m7RoO.png)
+![](http://i.imgur.com/nvi7ney.png)
 
 I want to see what I've watched so far
-<img src="http://i.imgur.com/ANrPsgV.png" style="width: 150px;"/>
+![](http://i.imgur.com/1CUMQaR.png)
