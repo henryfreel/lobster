@@ -5,6 +5,6 @@ Gif:
 
 ![Remind walthrough](https://raw.githubusercontent.com/henryfreel/Lobster/master/Remind.gif)
 
-![](cards.jpeg)
+![](cards.JPG)
 
 #### Features ####
