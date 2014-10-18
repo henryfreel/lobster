@@ -14,11 +14,13 @@ class CreateViewController: UIViewController, UIScrollViewDelegate {
     @IBOutlet weak var datePecker: UIImageView!
     @IBOutlet weak var datePick: UIImageView!
     @IBOutlet weak var blueCircle: UIImageView!
+    @IBOutlet weak var textField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
         scrollView.delegate = self
          scrollView.contentSize = CGSizeMake(320, 640)
    
+        textField.becomeFirstResponder()
         // Do any additional setup after loading the view.
     }
 
